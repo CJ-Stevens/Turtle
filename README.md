@@ -7,4 +7,7 @@
 [Turtle graphics](https://docs.python.org/3/library/turtle.html)<br>
 [เต่า Python](https://sites.google.com/a/sn.ac.th/pathon-programming/home/hnwy-thi-3-play-phakh/tea-python)<br>
 [สอนการสร้างกราฟด้วยไพธอน matplotlib: การสร้างกราฟรูปหัวใจ (heart curve)](https://www.youtube.com/watch?v=zIN87oPexcg)<br>
+[Keyboard Shortcuts Virsual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)<br>
+[]()<br>
+[]()<br>
 []()<br>
